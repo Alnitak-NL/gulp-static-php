@@ -1,6 +1,6 @@
 {
   "name": "gulp-static-php",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A static site generator that uses php to render pages",
   "main": "index.js",
   "scripts": {
